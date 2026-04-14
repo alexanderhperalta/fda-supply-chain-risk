@@ -182,6 +182,11 @@ python -m src.risk_scoring
 python -m src.anomaly_detection
 ```
 
+### Run the Dashboard
+```bash
+streamlit run src/dashboard.py
+```
+
 ---
 
 ## Project Structure
