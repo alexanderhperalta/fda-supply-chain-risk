@@ -35,7 +35,8 @@ st.set_page_config(
 # Custom CSS
 st.markdown("""
 <style>
-    .block-container { padding-top: 1rem; }
+    .block-container { padding-top: 2.5rem; }
+    header[data-testid="stHeader"] { background-color: #0e1117; }
     h1 { font-size: 1.6rem !important; }
     h2 { font-size: 1.2rem !important; }
     h3 { font-size: 1rem !important; }
@@ -112,6 +113,9 @@ st.sidebar.markdown("*Alexander Peralta*  \nahperalt@gmail.com")
 
 
 # ─── HEADER METRICS ──────────────────────────────────────
+
+st.markdown("## ⚡ FDA Drug Shortage — Supply Chain Risk Dashboard")
+st.markdown("")
 
 col1, col2, col3, col4, col5, col6 = st.columns(6)
 active = sum(1 for r in cleaned_records if r["status"] == "Current")
