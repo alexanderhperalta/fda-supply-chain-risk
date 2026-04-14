@@ -1,0 +1,6885 @@
+[
+  {
+    "drug": "Lidocaine Hydrochloride Injection",
+    "risk_score": 85.7,
+    "risk_level": "CRITICAL",
+    "recurrence_count": 70,
+    "recurrence_score": 77.8,
+    "avg_duration_days": 4412,
+    "duration_score": 84.6,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Discontinuation",
+      "Demand Increase",
+      "Other / Unspecified",
+      "Manufacturing / Quality"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anesthesia",
+    "all_categories": [
+      "Pediatric",
+      "Cardiovascular",
+      "Analgesia/Addiction",
+      "Anesthesia"
+    ],
+    "companies": [
+      "Spectra Medical Devices, LLC",
+      "Baxter Healthcare",
+      "Sintetica US",
+      "B. Braun Medical Inc.",
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Amphastar Pharmaceuticals, Inc.",
+      "Hospira, Inc., a Pfizer Company",
+      "Huons Co., Ltd. (South Korea)",
+      "Eugia US LLC"
+    ],
+    "num_companies": 10,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Lisdexamfetamine Dimesylate Capsule",
+    "risk_score": 79.6,
+    "risk_level": "CRITICAL",
+    "recurrence_count": 90,
+    "recurrence_score": 100.0,
+    "avg_duration_days": 949,
+    "duration_score": 18.2,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Shipping / Logistics Delay",
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Rhodes Pharmaceuticals L.P.",
+      "Sun Pharmaceutical Industries, Inc.",
+      "Alvogen",
+      "Elite Laboratories, Inc.",
+      "Teva Pharmaceuticals USA, Inc.",
+      "SpecGx LLC",
+      "Takeda Pharmaceuticals USA Inc.",
+      "Solco Healthcare US, LLC",
+      "Lannett Company, Inc.",
+      "Mylan Pharmaceuticals Inc., a Viatris Company",
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Apotex Corp.",
+      "Amneal Pharmaceuticals"
+    ],
+    "num_companies": 13,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+    "risk_score": 75.3,
+    "risk_level": "CRITICAL",
+    "recurrence_count": 73,
+    "recurrence_score": 81.1,
+    "avg_duration_days": 1247,
+    "duration_score": 23.9,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase",
+      "Shipping / Logistics Delay"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Sunrise Pharmaceutical, Inc.",
+      "Granules Pharmaceuticals Inc.",
+      "Alvogen",
+      "Elite Laboratories, Inc.",
+      "Teva Pharmaceuticals USA, Inc.",
+      "SpecGx LLC",
+      "Oryza Pharmaceuticals Inc.",
+      "Lannett Company, Inc.",
+      "Aurobindo Pharma USA",
+      "Epic Pharma, LLC",
+      "Sandoz Inc."
+    ],
+    "num_companies": 11,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Ropivacaine Hydrochloride Injection",
+    "risk_score": 70.0,
+    "risk_level": "HIGH",
+    "recurrence_count": 46,
+    "recurrence_score": 51.1,
+    "avg_duration_days": 2789,
+    "duration_score": 53.5,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Shipping / Logistics Delay",
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anesthesia",
+    "all_categories": [
+      "Anesthesia"
+    ],
+    "companies": [
+      "Caplin Steriles, Ltd.",
+      "Somerset Therapeutics, LLC",
+      "Fresenius Kabi USA, LLC",
+      "InfoRLife SA",
+      "Eugia US LLC"
+    ],
+    "num_companies": 5,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Bupivacaine Hydrochloride Injection",
+    "risk_score": 69.3,
+    "risk_level": "HIGH",
+    "recurrence_count": 42,
+    "recurrence_score": 46.7,
+    "avg_duration_days": 2929,
+    "duration_score": 56.2,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Shipping / Logistics Delay",
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anesthesia",
+    "all_categories": [
+      "Anesthesia"
+    ],
+    "companies": [
+      "Somerset Therapeutics, LLC",
+      "Fresenius Kabi USA, LLC",
+      "Huons Co., Ltd",
+      "Hospira, Inc., a Pfizer Company",
+      "Kindos Pharmaceuticals Co. Ltd.",
+      "Eugia US LLC"
+    ],
+    "num_companies": 6,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Epinephrine Bitartrate, Lidocaine Hydrochloride Injection",
+    "risk_score": 68.9,
+    "risk_level": "HIGH",
+    "recurrence_count": 22,
+    "recurrence_score": 24.4,
+    "avg_duration_days": 4231,
+    "duration_score": 81.2,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anesthesia",
+    "all_categories": [
+      "Pediatric",
+      "Anesthesia"
+    ],
+    "companies": [
+      "Fresenius Kabi USA, LLC",
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Dexmedetomidine Hydrochloride Injection",
+    "risk_score": 68.9,
+    "risk_level": "HIGH",
+    "recurrence_count": 52,
+    "recurrence_score": 57.8,
+    "avg_duration_days": 2151,
+    "duration_score": 41.3,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Discontinuation",
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase",
+      "Shipping / Logistics Delay"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anesthesia",
+    "all_categories": [
+      "Anesthesia"
+    ],
+    "companies": [
+      "Meitheal Pharmaceuticals, Inc.",
+      "Mylan Institutional, a Viatris Company",
+      "Baxter Healthcare",
+      "Slayback Pharma",
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Pfizer Inc.",
+      "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "Par Health, USA LLC",
+      "HQ Specialty Pharma",
+      "Amneal Pharmaceuticals",
+      "Gland Pharma Limited",
+      "Accord Healthcare Inc.",
+      "Eugia US LLC"
+    ],
+    "num_companies": 14,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Morphine Sulfate Injection",
+    "risk_score": 67.9,
+    "risk_level": "HIGH",
+    "recurrence_count": 25,
+    "recurrence_score": 27.8,
+    "avg_duration_days": 3041,
+    "duration_score": 58.3,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Discontinuation",
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Amphastar Pharmaceuticals, Inc.",
+      "Hospira, Inc., a Pfizer Company",
+      "Piramal Critical Care Inc."
+    ],
+    "num_companies": 5,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Atropine Sulfate Injection",
+    "risk_score": 67.4,
+    "risk_level": "HIGH",
+    "recurrence_count": 18,
+    "recurrence_score": 20.0,
+    "avg_duration_days": 4194,
+    "duration_score": 80.5,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Discontinuation",
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anesthesia",
+    "all_categories": [
+      "Pediatric",
+      "Anesthesia",
+      "Neurology"
+    ],
+    "companies": [
+      "American Regent, Inc.",
+      "Accord Healthcare Inc.",
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Amphastar Pharmaceuticals, Inc.",
+      "Hospira, Inc., a Pfizer Company",
+      "Medefil, Inc."
+    ],
+    "num_companies": 7,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Hydromorphone Hydrochloride Injection",
+    "risk_score": 64.7,
+    "risk_level": "HIGH",
+    "recurrence_count": 26,
+    "recurrence_score": 28.9,
+    "avg_duration_days": 3076,
+    "duration_score": 59.0,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Manufacturing / Quality",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Hospira, Inc., a Pfizer Company",
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 4,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Fentanyl Citrate Injection",
+    "risk_score": 63.7,
+    "risk_level": "HIGH",
+    "recurrence_count": 19,
+    "recurrence_score": 21.1,
+    "avg_duration_days": 3357,
+    "duration_score": 64.4,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified",
+      "Manufacturing / Quality",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Pediatric",
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 3,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Sodium Bicarbonate Injection",
+    "risk_score": 63.3,
+    "risk_level": "HIGH",
+    "recurrence_count": 19,
+    "recurrence_score": 21.1,
+    "avg_duration_days": 3268,
+    "duration_score": 62.7,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Discontinuation",
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Pediatric",
+      "Endocrinology/Metabolism",
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Exela Pharma Sciences, LLC",
+      "Fresenius Kabi USA, LLC",
+      "Amphastar Pharmaceuticals, Inc.",
+      "Hospira, Inc., a Pfizer Company",
+      "Long Grove Pharmaceuticals LLC"
+    ],
+    "num_companies": 5,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Ketorolac Tromethamine Injection",
+    "risk_score": 63.2,
+    "risk_level": "HIGH",
+    "recurrence_count": 25,
+    "recurrence_score": 27.8,
+    "avg_duration_days": 2846,
+    "duration_score": 54.6,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Shipping / Logistics Delay",
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Baxter Healthcare",
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Sagent Pharmaceuticals",
+      "Alembic Pharmaceuticals",
+      "Hospira, Inc., a Pfizer Company",
+      "Gland Pharma Limited"
+    ],
+    "num_companies": 7,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Heparin Sodium Injection",
+    "risk_score": 63.0,
+    "risk_level": "HIGH",
+    "recurrence_count": 10,
+    "recurrence_score": 11.1,
+    "avg_duration_days": 3063,
+    "duration_score": 58.8,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Discontinuation",
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Hematology",
+    "all_categories": [
+      "Hematology"
+    ],
+    "companies": [
+      "Baxter Healthcare",
+      "Fresenius Kabi USA, LLC",
+      "Hospira, Inc., a Pfizer Company",
+      "B. Braun Medical Inc."
+    ],
+    "num_companies": 4,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Sodium Acetate Injection",
+    "risk_score": 63.0,
+    "risk_level": "HIGH",
+    "recurrence_count": 12,
+    "recurrence_score": 13.3,
+    "avg_duration_days": 3697,
+    "duration_score": 70.9,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Total Parenteral Nutrition",
+    "all_categories": [
+      "Pediatric",
+      "Endocrinology/Metabolism",
+      "Total Parenteral Nutrition",
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Milla Pharmaceuticals",
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 4,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Methylphenidate Hydrochloride Tablet, Extended Release",
+    "risk_score": 62.7,
+    "risk_level": "HIGH",
+    "recurrence_count": 39,
+    "recurrence_score": 43.3,
+    "avg_duration_days": 979,
+    "duration_score": 18.8,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Discontinuation",
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase",
+      "Shipping / Logistics Delay"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Sun Pharmaceutical Industries, Inc.",
+      "Janssen Pharmaceuticals",
+      "Teva Pharmaceuticals USA, Inc.",
+      "SpecGx LLC",
+      "Lannett Company, Inc.",
+      "Trigen Laboratories, LLC",
+      "Vertical Pharmaceuticals, LLC"
+    ],
+    "num_companies": 7,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Furosemide Injection",
+    "risk_score": 62.6,
+    "risk_level": "HIGH",
+    "recurrence_count": 33,
+    "recurrence_score": 36.7,
+    "avg_duration_days": 2148,
+    "duration_score": 41.2,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Accord Healthcare Inc.",
+      "Baxter Healthcare",
+      "Sagent Pharmaceuticals",
+      "Fresenius Kabi USA, LLC",
+      "Hospira, Inc., a Pfizer Company",
+      "Avet Pharmaceuticals, Inc.",
+      "Gland Pharma Limited",
+      "Meitheal Pharmaceuticals, Inc.",
+      "Eugia US LLC"
+    ],
+    "num_companies": 9,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",
+    "risk_score": 62.1,
+    "risk_level": "HIGH",
+    "recurrence_count": 20,
+    "recurrence_score": 22.2,
+    "avg_duration_days": 2967,
+    "duration_score": 56.9,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Shipping / Logistics Delay",
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anesthesia",
+    "all_categories": [
+      "Anesthesia"
+    ],
+    "companies": [
+      "Fresenius Kabi USA, LLC",
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Midazolam Hydrochloride Injection",
+    "risk_score": 61.6,
+    "risk_level": "HIGH",
+    "recurrence_count": 30,
+    "recurrence_score": 33.3,
+    "avg_duration_days": 2152,
+    "duration_score": 41.3,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Shipping / Logistics Delay",
+      "Demand Increase",
+      "Other / Unspecified",
+      "Manufacturing / Quality"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anesthesia",
+    "all_categories": [
+      "Anesthesia",
+      "Neurology"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Hospira, Inc., a Pfizer Company",
+      "Avet Pharmaceuticals, Inc.",
+      "WG Critical Care",
+      "Gland Pharma Limited"
+    ],
+    "num_companies": 6,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Methylprednisolone Acetate Injection",
+    "risk_score": 60.1,
+    "risk_level": "HIGH",
+    "recurrence_count": 23,
+    "recurrence_score": 25.6,
+    "avg_duration_days": 1557,
+    "duration_score": 29.9,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Other / Unspecified",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Rheumatology",
+    "all_categories": [
+      "Rheumatology"
+    ],
+    "companies": [
+      "Sagent Pharmaceuticals",
+      "Pfizer Inc.",
+      "Par Health, USA LLC",
+      "Amneal Pharmaceuticals",
+      "Eugia US LLC"
+    ],
+    "num_companies": 5,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Dopamine Hydrochloride Injection",
+    "risk_score": 60.0,
+    "risk_level": "HIGH",
+    "recurrence_count": 12,
+    "recurrence_score": 13.3,
+    "avg_duration_days": 3068,
+    "duration_score": 58.9,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Discontinuation",
+      "Demand Increase",
+      "Other / Unspecified",
+      "Manufacturing / Quality"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Baxter Healthcare",
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 3,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Dobutamine Hydrochloride Injection",
+    "risk_score": 59.6,
+    "risk_level": "HIGH",
+    "recurrence_count": 11,
+    "recurrence_score": 12.2,
+    "avg_duration_days": 3056,
+    "duration_score": 58.6,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Discontinuation",
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Pediatric",
+      "Cardiovascular",
+      "Renal"
+    ],
+    "companies": [
+      "Baxter Healthcare",
+      "Pfizer Inc.",
+      "Hospira, Inc., a Pfizer Company",
+      "Hainan Poly Pharm. Co., Ltd."
+    ],
+    "num_companies": 4,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Amino Acid Injection",
+    "risk_score": 59.6,
+    "risk_level": "HIGH",
+    "recurrence_count": 16,
+    "recurrence_score": 17.8,
+    "avg_duration_days": 1942,
+    "duration_score": 37.3,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Demand Increase",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Gastroenterology",
+    "all_categories": [
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Baxter Healthcare",
+      "Otsuka ICU Medical LLC",
+      "B. Braun Medical Inc."
+    ],
+    "num_companies": 3,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Clonazepam Tablet",
+    "risk_score": 59.5,
+    "risk_level": "HIGH",
+    "recurrence_count": 40,
+    "recurrence_score": 44.4,
+    "avg_duration_days": 1021,
+    "duration_score": 19.6,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Pediatric",
+      "Psychiatry",
+      "Neurology"
+    ],
+    "companies": [
+      "Rubicon Research Private Limited",
+      "Cheplapharm Arzneimittel GmbH",
+      "Teva Pharmaceuticals USA, Inc.",
+      "Prinston Pharmaceutical, Inc.",
+      "Aurobindo Pharma USA",
+      "Accord Healthcare Inc."
+    ],
+    "num_companies": 6,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Dextrose Monohydrate 5% Injection",
+    "risk_score": 59.2,
+    "risk_level": "HIGH",
+    "recurrence_count": 36,
+    "recurrence_score": 40.0,
+    "avg_duration_days": 1509,
+    "duration_score": 29.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Discontinuation",
+      "Demand Increase",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Pediatric",
+      "Endocrinology/Metabolism",
+      "Other",
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Baxter Healthcare",
+      "Fresenius Kabi USA, LLC",
+      "Otsuka ICU Medical LLC",
+      "B. Braun Medical Inc."
+    ],
+    "num_companies": 4,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Lorazepam Injection",
+    "risk_score": 58.3,
+    "risk_level": "HIGH",
+    "recurrence_count": 11,
+    "recurrence_score": 12.2,
+    "avg_duration_days": 2796,
+    "duration_score": 53.7,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified",
+      "Manufacturing / Quality",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Amphastar Pharmaceuticals, Inc.",
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 4,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Quinapril Hydrochloride Tablet",
+    "risk_score": 56.8,
+    "risk_level": "HIGH",
+    "recurrence_count": 20,
+    "recurrence_score": 22.2,
+    "avg_duration_days": 1067,
+    "duration_score": 20.5,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Discontinuation",
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Solco Healthcare US, LLC",
+      "Lupin Pharmaceuticals, Inc.",
+      "Aurobindo Pharma USA",
+      "Pfizer Inc.",
+      "Chartwell Molecular Holdings LLC"
+    ],
+    "num_companies": 5,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Carboplatin Injection",
+    "risk_score": 56.0,
+    "risk_level": "HIGH",
+    "recurrence_count": 29,
+    "recurrence_score": 32.2,
+    "avg_duration_days": 1068,
+    "duration_score": 20.5,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Discontinuation",
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase",
+      "Shipping / Logistics Delay"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Ingenus Pharmaceuticals LLC",
+      "Teva Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Hospira, Inc., a Pfizer Company",
+      "Teyro Labs",
+      "Gland Pharma Limited",
+      "Accord Healthcare Inc.",
+      "Eugia US LLC"
+    ],
+    "num_companies": 8,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Bumetanide Injection",
+    "risk_score": 55.6,
+    "risk_level": "HIGH",
+    "recurrence_count": 12,
+    "recurrence_score": 13.3,
+    "avg_duration_days": 2986,
+    "duration_score": 57.3,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified",
+      "Manufacturing / Quality",
+      "Demand Increase"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "MSN Laboratories Private Limited",
+      "Sagent Pharmaceuticals",
+      "Fresenius Kabi USA, LLC",
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Mullan Pharmaceutical Inc."
+    ],
+    "num_companies": 5,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Rifampin Capsule",
+    "risk_score": 55.5,
+    "risk_level": "HIGH",
+    "recurrence_count": 9,
+    "recurrence_score": 10.0,
+    "avg_duration_days": 1555,
+    "duration_score": 29.8,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Discontinuation",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Epic Pharma, LLC",
+      "Lupin Pharmaceuticals, Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Cefotaxime Sodium Powder, for Solution",
+    "risk_score": 53.7,
+    "risk_level": "HIGH",
+    "recurrence_count": 6,
+    "recurrence_score": 6.7,
+    "avg_duration_days": 4008,
+    "duration_score": 76.9,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Demand Increase",
+    "all_reasons": [
+      "Other / Unspecified",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Pediatric",
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "SteriMax, Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Powder, For Solution"
+  },
+  {
+    "drug": "Azacitidine Injection",
+    "risk_score": 53.3,
+    "risk_level": "HIGH",
+    "recurrence_count": 9,
+    "recurrence_score": 10.0,
+    "avg_duration_days": 1897,
+    "duration_score": 36.4,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Armas Pharmaceuticals Inc",
+      "Teva Pharmaceuticals USA, Inc.",
+      "Accord Healthcare Inc.",
+      "Dr. Reddy's Laboratories, Inc.",
+      "Bristol Myers Squibb Co.",
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Meitheal Pharmaceuticals, Inc.",
+      "Eugia US LLC"
+    ],
+    "num_companies": 9,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Clindamycin Phosphate Injection",
+    "risk_score": 53.2,
+    "risk_level": "HIGH",
+    "recurrence_count": 20,
+    "recurrence_score": 22.2,
+    "avg_duration_days": 1108,
+    "duration_score": 21.3,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified",
+      "Manufacturing / Quality",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Baxter Healthcare",
+      "Sagent Pharmaceuticals",
+      "Pfizer Inc.",
+      "Sandoz Inc."
+    ],
+    "num_companies": 4,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Metronidazole Injection",
+    "risk_score": 53.2,
+    "risk_level": "HIGH",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 1423,
+    "duration_score": 27.3,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Baxter Healthcare",
+      "InfoRLife SA",
+      "Gland Pharma Limited"
+    ],
+    "num_companies": 3,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Lisdexamfetamine Dimesylate Tablet, Chewable",
+    "risk_score": 51.6,
+    "risk_level": "HIGH",
+    "recurrence_count": 18,
+    "recurrence_score": 20.0,
+    "avg_duration_days": 967,
+    "duration_score": 18.6,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Other / Unspecified"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Sun Pharmaceutical Industries, Inc.",
+      "Takeda Pharmaceuticals USA Inc.",
+      "Novadoz Pharmaceuticals LLC"
+    ],
+    "num_companies": 3,
+    "dosage_form": "Tablet, Chewable"
+  },
+  {
+    "drug": "Desmopressin Acetate Spray",
+    "risk_score": 50.7,
+    "risk_level": "HIGH",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 1699,
+    "duration_score": 32.6,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Manufacturing / Quality",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Hematology",
+    "all_categories": [
+      "Hematology"
+    ],
+    "companies": [
+      "Ferring",
+      "Apotex Corp."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Spray"
+  },
+  {
+    "drug": "Dexamethasone Sodium Phosphate Injection",
+    "risk_score": 50.3,
+    "risk_level": "HIGH",
+    "recurrence_count": 16,
+    "recurrence_score": 17.8,
+    "avg_duration_days": 2592,
+    "duration_score": 49.7,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Demand Increase",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Dermatology",
+    "all_categories": [
+      "Neurology",
+      "Endocrinology/Metabolism",
+      "Hematology",
+      "Oncology",
+      "Gastroenterology",
+      "Ophthalmology",
+      "Dermatology",
+      "Rheumatology",
+      "Other",
+      "Pulmonary/Allergy"
+    ],
+    "companies": [
+      "Somerset Therapeutics, LLC",
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Mylan Institutional, a Viatris Company",
+      "Eugia US LLC"
+    ],
+    "num_companies": 5,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Technetium TC-99M Pyrophosphate Kit Injection",
+    "risk_score": 50.0,
+    "risk_level": "MODERATE",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 831,
+    "duration_score": 16.0,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Raw Material / API Shortage",
+    "all_reasons": [
+      "Raw Material / API Shortage"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Medical Imaging",
+    "all_categories": [
+      "Medical Imaging"
+    ],
+    "companies": [
+      "Sun Pharmaceutical Industries, Inc.",
+      "Curium US LLC"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Propranolol Hydrochloride Injection",
+    "risk_score": 49.9,
+    "risk_level": "MODERATE",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 873,
+    "duration_score": 16.8,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Raw Material / API Shortage",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Meperidine Hydrochloride Injection",
+    "risk_score": 49.8,
+    "risk_level": "MODERATE",
+    "recurrence_count": 10,
+    "recurrence_score": 11.1,
+    "avg_duration_days": 306,
+    "duration_score": 5.9,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Manufacturing / Quality",
+    "all_reasons": [
+      "Raw Material / API Shortage",
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Sterile Water Irrigant",
+    "risk_score": 49.4,
+    "risk_level": "MODERATE",
+    "recurrence_count": 9,
+    "recurrence_score": 10.0,
+    "avg_duration_days": 1072,
+    "duration_score": 20.6,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Discontinuation",
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Gastroenterology",
+    "all_categories": [
+      "Pediatric",
+      "Other",
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Baxter Healthcare",
+      "Otsuka ICU Medical LLC",
+      "B. Braun Medical Inc."
+    ],
+    "num_companies": 3,
+    "dosage_form": "Irrigant"
+  },
+  {
+    "drug": "Flurazepam Hydrochloride Capsule",
+    "risk_score": 49.4,
+    "risk_level": "MODERATE",
+    "recurrence_count": 6,
+    "recurrence_score": 6.7,
+    "avg_duration_days": 1272,
+    "duration_score": 24.4,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Other",
+    "all_categories": [
+      "Other",
+      "Oncology",
+      "Neurology"
+    ],
+    "companies": [
+      "Chartwell Molecular Holdings LLC",
+      "Rising Pharma Holdings, Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Dextrose Monohydrate 50% Injection",
+    "risk_score": 49.1,
+    "risk_level": "MODERATE",
+    "recurrence_count": 5,
+    "recurrence_score": 5.6,
+    "avg_duration_days": 1546,
+    "duration_score": 29.7,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation",
+      "Demand Increase",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Pediatric",
+      "Endocrinology/Metabolism",
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Amphastar Pharmaceuticals, Inc.",
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Sterile Water Injection",
+    "risk_score": 48.8,
+    "risk_level": "MODERATE",
+    "recurrence_count": 12,
+    "recurrence_score": 13.3,
+    "avg_duration_days": 1584,
+    "duration_score": 30.4,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Other",
+    "all_categories": [
+      "Other"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Hospira, Inc., a Pfizer Company",
+      "Nephron Pharmaceuticals Corporation",
+      "Medefil, Inc."
+    ],
+    "num_companies": 5,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Promethazine Hydrochloride Injection",
+    "risk_score": 48.6,
+    "risk_level": "MODERATE",
+    "recurrence_count": 10,
+    "recurrence_score": 11.1,
+    "avg_duration_days": 829,
+    "duration_score": 15.9,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified",
+      "Manufacturing / Quality",
+      "Demand Increase"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Gastroenterology",
+      "Pediatric",
+      "Analgesia/Addiction",
+      "Other",
+      "Pulmonary/Allergy"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "XGen Pharmaceuticals DJB, Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Streptozocin Powder, For Solution",
+    "risk_score": 48.0,
+    "risk_level": "MODERATE",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 1261,
+    "duration_score": 24.2,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "ESTEVE PHARMACEUTICALS, S.A.",
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Powder, For Solution"
+  },
+  {
+    "drug": "Penicillin G Benzathine Injection",
+    "risk_score": 47.7,
+    "risk_level": "MODERATE",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 1071,
+    "duration_score": 20.5,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Manufacturing / Quality",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Laboratorios Atral",
+      "Pfizer Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Methotrexate Sodium Injection",
+    "risk_score": 47.3,
+    "risk_level": "MODERATE",
+    "recurrence_count": 14,
+    "recurrence_score": 15.6,
+    "avg_duration_days": 1113,
+    "duration_score": 21.4,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified",
+      "Demand Increase"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Rheumatology",
+    "all_categories": [
+      "Rheumatology",
+      "Oncology"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc.",
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Hospira, Inc., a Pfizer Company",
+      "Accord Healthcare Inc."
+    ],
+    "num_companies": 5,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Quinapril/Hydrochlorothiazide Tablet",
+    "risk_score": 47.1,
+    "risk_level": "MODERATE",
+    "recurrence_count": 6,
+    "recurrence_score": 6.7,
+    "avg_duration_days": 1055,
+    "duration_score": 20.2,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Aurobindo Pharma USA",
+      "Chartwell Molecular Holdings LLC"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Rocuronium Bromide Injection",
+    "risk_score": 46.5,
+    "risk_level": "MODERATE",
+    "recurrence_count": 26,
+    "recurrence_score": 28.9,
+    "avg_duration_days": 1110,
+    "duration_score": 21.3,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Shipping / Logistics Delay",
+      "Demand Increase",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anesthesia",
+    "all_categories": [
+      "Anesthesia"
+    ],
+    "companies": [
+      "Sandoz Inc.",
+      "Baxter Healthcare",
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "XGen Pharmaceuticals DJB, Inc.",
+      "Sagent Pharmaceuticals",
+      "Hospira, Inc., a Pfizer Company",
+      "Piramal Critical Care Inc.",
+      "Mylan Institutional, a Viatris Company",
+      "Meitheal Pharmaceuticals, Inc.",
+      "Eugia US LLC"
+    ],
+    "num_companies": 11,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Riluzole Oral Suspension",
+    "risk_score": 46.4,
+    "risk_level": "MODERATE",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 796,
+    "duration_score": 15.3,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Manufacturing / Quality",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "EDW Pharma, Inc. (formerly Italfarmaco Pharma, Inc.)"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Oral Suspension"
+  },
+  {
+    "drug": "Furosemide Oral Solution",
+    "risk_score": 46.0,
+    "risk_level": "MODERATE",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Raw Material / API Shortage",
+    "all_reasons": [
+      "Raw Material / API Shortage"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Oral Solution"
+  },
+  {
+    "drug": "Etomidate Injection",
+    "risk_score": 44.8,
+    "risk_level": "MODERATE",
+    "recurrence_count": 19,
+    "recurrence_score": 21.1,
+    "avg_duration_days": 1242,
+    "duration_score": 23.8,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Demand Increase",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anesthesia",
+    "all_categories": [
+      "Anesthesia"
+    ],
+    "companies": [
+      "Caplin Steriles, Ltd.",
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Hospira, Inc., a Pfizer Company",
+      "Mylan Institutional, a Viatris Company",
+      "Gland Pharma Limited",
+      "Eugia US LLC"
+    ],
+    "num_companies": 6,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Triamcinolone Acetonide Injection",
+    "risk_score": 44.5,
+    "risk_level": "MODERATE",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 1451,
+    "duration_score": 27.8,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Manufacturing / Quality",
+    "all_reasons": [
+      "Manufacturing / Quality"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Ophthalmology",
+    "all_categories": [
+      "Ophthalmology"
+    ],
+    "companies": [
+      "Harrow Eye, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Hydroxocobalamin Injection",
+    "risk_score": 44.0,
+    "risk_level": "MODERATE",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 437,
+    "duration_score": 8.4,
+    "max_cause_severity": 85.0,
+    "cause_severity_score": 85.0,
+    "primary_reason": "Manufacturing / Quality",
+    "all_reasons": [
+      "Manufacturing / Quality"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Other",
+    "all_categories": [
+      "Other"
+    ],
+    "companies": [
+      "BTG International Inc.",
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Peginterferon alfa-2a Injection",
+    "risk_score": 42.7,
+    "risk_level": "MODERATE",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 207,
+    "duration_score": 4.0,
+    "max_cause_severity": 100.0,
+    "cause_severity_score": 100.0,
+    "primary_reason": "Raw Material / API Shortage",
+    "all_reasons": [
+      "Raw Material / API Shortage"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral"
+    ],
+    "companies": [
+      "pharmaand GmbH (pharma&)"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Remifentanil Hydrochloride Injection",
+    "risk_score": 42.1,
+    "risk_level": "MODERATE",
+    "recurrence_count": 9,
+    "recurrence_score": 10.0,
+    "avg_duration_days": 1367,
+    "duration_score": 26.2,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Shipping / Logistics Delay",
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC",
+      "Mylan Institutional, a Viatris Company"
+    ],
+    "num_companies": 3,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Bacitracin Ophthalmic Ointment",
+    "risk_score": 42.0,
+    "risk_level": "MODERATE",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 338,
+    "duration_score": 6.5,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective",
+      "Ophthalmology"
+    ],
+    "companies": [
+      "Padagis US LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Ophthalmic Ointment"
+  },
+  {
+    "drug": "Sufentanil Citrate Injection",
+    "risk_score": 40.6,
+    "risk_level": "MODERATE",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 1416,
+    "duration_score": 27.2,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Pediatric",
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Triamcinolone Hexacetonide Injection",
+    "risk_score": 40.5,
+    "risk_level": "MODERATE",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 1597,
+    "duration_score": 30.6,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Shipping / Logistics Delay",
+    "all_reasons": [
+      "Shipping / Logistics Delay"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Rheumatology",
+    "all_categories": [
+      "Rheumatology"
+    ],
+    "companies": [
+      "Medexus"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Dextrose Monohydrate 10% Injection",
+    "risk_score": 40.0,
+    "risk_level": "MODERATE",
+    "recurrence_count": 13,
+    "recurrence_score": 14.4,
+    "avg_duration_days": 1495,
+    "duration_score": 28.7,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Pediatric",
+      "Endocrinology/Metabolism",
+      "Other",
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Baxter Healthcare",
+      "Fresenius Kabi USA, LLC",
+      "Otsuka ICU Medical LLC",
+      "B. Braun Medical Inc."
+    ],
+    "num_companies": 4,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Conivaptan Hydrochloride Injection",
+    "risk_score": 39.9,
+    "risk_level": "MODERATE",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 1479,
+    "duration_score": 28.4,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Shipping / Logistics Delay",
+    "all_reasons": [
+      "Shipping / Logistics Delay"
+    ],
+    "status_score": 100.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Cumberland Pharmaceuticals Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Echothiophate Iodide Ophthalmic Solution",
+    "risk_score": 39.3,
+    "risk_level": "MODERATE",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 2185,
+    "duration_score": 41.9,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Ophthalmology",
+    "all_categories": [
+      "Ophthalmology"
+    ],
+    "companies": [
+      "Fera Pharmaceuticals"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Ophthalmic Solution"
+  },
+  {
+    "drug": "Rifapentine Tablet, Film Coated",
+    "risk_score": 38.4,
+    "risk_level": "MODERATE",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 2002,
+    "duration_score": 38.4,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Sanofi-Aventis U.S. LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Valproate Sodium Injection",
+    "risk_score": 38.3,
+    "risk_level": "MODERATE",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 1908,
+    "duration_score": 36.6,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Fresenius Kabi USA, LLC"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Rifampin Injection",
+    "risk_score": 38.2,
+    "risk_level": "MODERATE",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 1804,
+    "duration_score": 34.6,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Fresenius Kabi USA, LLC",
+      "Sanofi-Aventis U.S. LLC",
+      "Mylan Institutional, a Viatris Company"
+    ],
+    "num_companies": 3,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Liraglutide Injection",
+    "risk_score": 36.0,
+    "risk_level": "MODERATE",
+    "recurrence_count": 9,
+    "recurrence_score": 10.0,
+    "avg_duration_days": 933,
+    "duration_score": 17.9,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Shipping / Logistics Delay",
+      "Other / Unspecified"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Meitheal Pharmaceuticals, Inc.",
+      "Novo Nordisk, Inc."
+    ],
+    "num_companies": 3,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Albuterol Sulfate Solution",
+    "risk_score": 35.2,
+    "risk_level": "MODERATE",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 1195,
+    "duration_score": 22.9,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Demand Increase",
+      "Other / Unspecified"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Pediatric",
+    "all_categories": [
+      "Pediatric",
+      "Pulmonary/Allergy"
+    ],
+    "companies": [
+      "Nephron Pharmaceuticals Corporation",
+      "Ritedose Pharmaceuticals, LLC",
+      "Rising Pharma Holdings, Inc."
+    ],
+    "num_companies": 3,
+    "dosage_form": "Solution"
+  },
+  {
+    "drug": "Cromolyn Sodium Concentrate",
+    "risk_score": 34.0,
+    "risk_level": "MODERATE",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 866,
+    "duration_score": 16.6,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Demand Increase",
+      "Other / Unspecified"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Pulmonary/Allergy",
+    "all_categories": [
+      "Pulmonary/Allergy"
+    ],
+    "companies": [
+      "Ailex Pharmaceuticals",
+      "Mylan Specialty, a Viatris Company",
+      "Rising Pharma Holdings, Inc.",
+      "Micro Labs LTD"
+    ],
+    "num_companies": 4,
+    "dosage_form": "Concentrate"
+  },
+  {
+    "drug": "Dextrose Monohydrate 70% Injection",
+    "risk_score": 32.4,
+    "risk_level": "MODERATE",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 541,
+    "duration_score": 10.4,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Pediatric",
+      "Endocrinology/Metabolism",
+      "Other",
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Baxter Healthcare",
+      "Otsuka ICU Medical LLC",
+      "B. Braun Medical Inc."
+    ],
+    "num_companies": 3,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Levothyroxine Sodium Tablet",
+    "risk_score": 31.3,
+    "risk_level": "MODERATE",
+    "recurrence_count": 22,
+    "recurrence_score": 24.4,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "EMD Serono, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Methylphenidate Film, Extended Release",
+    "risk_score": 31.2,
+    "risk_level": "MODERATE",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 293,
+    "duration_score": 5.6,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 80.0,
+    "current_status": "Active Shortage",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Noven Pharmaceuticals, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Film, Extended Release"
+  },
+  {
+    "drug": "Nebivolol Hydrochloride Tablet",
+    "risk_score": 29.3,
+    "risk_level": "LOW",
+    "recurrence_count": 16,
+    "recurrence_score": 17.8,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Torrent Pharmaceuticals Limited"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Amlodipine Besylate; Hydrochlorothiazide; Olmesartan Medoxomil Tablet",
+    "risk_score": 29.0,
+    "risk_level": "LOW",
+    "recurrence_count": 15,
+    "recurrence_score": 16.7,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Torrent Pharma Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Potassium Chloride Tablet, Extended Release",
+    "risk_score": 28.7,
+    "risk_level": "LOW",
+    "recurrence_count": 14,
+    "recurrence_score": 15.6,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism",
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC",
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Everolimus Tablet",
+    "risk_score": 27.7,
+    "risk_level": "LOW",
+    "recurrence_count": 11,
+    "recurrence_score": 12.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Transplant",
+    "all_categories": [
+      "Transplant"
+    ],
+    "companies": [
+      "Endo Pharmaceuticals, Inc.",
+      "Mylan Pharmaceuticals Inc., a Viatris Company",
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 3,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Omeprazole Delayed Release Capsule",
+    "risk_score": 27.3,
+    "risk_level": "LOW",
+    "recurrence_count": 10,
+    "recurrence_score": 11.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Gastroenterology",
+    "all_categories": [
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Sandoz Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": ""
+  },
+  {
+    "drug": "Phenobarbital Tablet",
+    "risk_score": 26.7,
+    "risk_level": "LOW",
+    "recurrence_count": 8,
+    "recurrence_score": 8.9,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Other",
+      "Analgesia/Addiction",
+      "Neurology"
+    ],
+    "companies": [
+      "Endo Pharmaceuticals, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Metoprolol Tartrate Tablet",
+    "risk_score": 26.7,
+    "risk_level": "LOW",
+    "recurrence_count": 8,
+    "recurrence_score": 8.9,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Aurobindo Pharma USA"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Divalproex Sodium Tablet, Delayed Release",
+    "risk_score": 26.7,
+    "risk_level": "LOW",
+    "recurrence_count": 8,
+    "recurrence_score": 8.9,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Methotrexate Injection",
+    "risk_score": 26.3,
+    "risk_level": "LOW",
+    "recurrence_count": 7,
+    "recurrence_score": 7.8,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Rheumatology",
+    "all_categories": [
+      "Rheumatology"
+    ],
+    "companies": [
+      "Assertio Specialty Pharmaceuticals, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Oxaliplatin Injection",
+    "risk_score": 26.0,
+    "risk_level": "LOW",
+    "recurrence_count": 6,
+    "recurrence_score": 6.7,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation",
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Novast Labs",
+      "Fresenius Kabi USA, LLC",
+      "Sandoz Inc."
+    ],
+    "num_companies": 3,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Desipramine Hydrochloride Tablet",
+    "risk_score": 26.0,
+    "risk_level": "LOW",
+    "recurrence_count": 6,
+    "recurrence_score": 6.7,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Avet Pharmaceuticals, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Acetaminophen; Oxycodone Hydrochloride Tablet",
+    "risk_score": 26.0,
+    "risk_level": "LOW",
+    "recurrence_count": 6,
+    "recurrence_score": 6.7,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Endo Pharmaceuticals, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Celecoxib Capsule",
+    "risk_score": 26.0,
+    "risk_level": "LOW",
+    "recurrence_count": 6,
+    "recurrence_score": 6.7,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Lasmiditan Succinate Tablet",
+    "risk_score": 26.0,
+    "risk_level": "LOW",
+    "recurrence_count": 6,
+    "recurrence_score": 6.7,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Eli Lilly and Co."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Peritoneal Dialysis Solution",
+    "risk_score": 26.0,
+    "risk_level": "LOW",
+    "recurrence_count": 6,
+    "recurrence_score": 6.7,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Renal",
+    "all_categories": [
+      "Renal"
+    ],
+    "companies": [
+      "Fresenius Medical Care North America"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Solution"
+  },
+  {
+    "drug": "Irinotecan Hydrochloride Injection",
+    "risk_score": 26.0,
+    "risk_level": "LOW",
+    "recurrence_count": 6,
+    "recurrence_score": 6.7,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation",
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Jiangsu Hengrui Pharmaceuticals Co. (US Agent eVenus Pharmaceutical Laboratories, Inc.)",
+      "Ingenus Pharmaceuticals LLC",
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 3,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Doxycycline Hyclate Tablet",
+    "risk_score": 26.0,
+    "risk_level": "LOW",
+    "recurrence_count": 6,
+    "recurrence_score": 6.7,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Discontinuation",
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Mylan Pharmaceuticals Inc., a Viatris Company",
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Sodium Chloride 0.9% Injection",
+    "risk_score": 25.7,
+    "risk_level": "LOW",
+    "recurrence_count": 5,
+    "recurrence_score": 5.6,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Gastroenterology",
+    "all_categories": [
+      "Other",
+      "Renal",
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Fresenius Medical Care North America",
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Pilocarpine Hydrochloride Ophthalmic Solution",
+    "risk_score": 25.7,
+    "risk_level": "LOW",
+    "recurrence_count": 5,
+    "recurrence_score": 5.6,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Ophthalmology",
+    "all_categories": [
+      "Ophthalmology"
+    ],
+    "companies": [
+      "AbbVie Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Ophthalmic Solution"
+  },
+  {
+    "drug": "Ampicillin Sodium Injection",
+    "risk_score": 25.7,
+    "risk_level": "LOW",
+    "recurrence_count": 5,
+    "recurrence_score": 5.6,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Sandoz Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Amlodipine Besylate; Benazepril Hydrochloride Capsule",
+    "risk_score": 25.3,
+    "risk_level": "LOW",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Novartis Pharmaceuticals Corporation"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Esterified Estrogens Tablet",
+    "risk_score": 25.3,
+    "risk_level": "LOW",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Docetaxel Injection",
+    "risk_score": 25.3,
+    "risk_level": "LOW",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Pfizer Inc.",
+      "Ingenus Pharmaceuticals LLC"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Fluphenazine Hydrochloride Tablet",
+    "risk_score": 25.3,
+    "risk_level": "LOW",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Psychiatry",
+      "Neurology"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Fondaparinux Sodium Injection",
+    "risk_score": 25.3,
+    "risk_level": "LOW",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Hematology",
+    "all_categories": [
+      "Hematology"
+    ],
+    "companies": [
+      "Jiangsu Hengrui Pharmaceuticals Co. (US Agent eVenus Pharmaceutical Laboratories, Inc.)"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Pemetrexed Disodium Injection",
+    "risk_score": 25.3,
+    "risk_level": "LOW",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Eli Lilly and Co.",
+      "Sandoz Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Guanfacine Hydrochloride Tablet, Extended Release",
+    "risk_score": 25.3,
+    "risk_level": "LOW",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Actavis Pharma, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Allopurinol Tablet",
+    "risk_score": 25.3,
+    "risk_level": "LOW",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Rheumatology",
+      "Oncology",
+      "Renal"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Glyburide Tablet",
+    "risk_score": 25.3,
+    "risk_level": "LOW",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Valsartan Tablet",
+    "risk_score": 25.3,
+    "risk_level": "LOW",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Mylan Pharmaceuticals Inc., a Viatris Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Eszopiclone Tablet",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Insulin Aspart Injection",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Novo Nordisk, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Propafenone Hydrochloride Capsule, Extended Release",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule, Extended Release"
+  },
+  {
+    "drug": "Potassium Citrate Tablet, Extended Release",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Renal",
+    "all_categories": [
+      "Renal"
+    ],
+    "companies": [
+      "Watson Pharma Private Limited"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Clindamycin Hydrochloride Capsule",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Vancomycin Hydrochloride Injection",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Insulin Degludec Injection",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Novo Nordisk, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Prazosin Hydrochloride Capsule",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Tobramycin Solution",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Pulmonary/Allergy",
+    "all_categories": [
+      "Pulmonary/Allergy"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Solution"
+  },
+  {
+    "drug": "Lincomycin Hydrochloride Injection",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "XGen Pharmaceuticals DJB, Inc.",
+      "Pfizer Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Carbamazepine Tablet",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Ezetimibe Tablet",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Actavis Pharma, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Finasteride Tablet",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Urology",
+    "all_categories": [
+      "Urology"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Amantadine Hydrochloride Tablet",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral",
+      "Neurology"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Itraconazole Capsule",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Other",
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Janssen Pharmaceuticals"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Carbamazepine Capsule, Extended Release",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Takeda Pharmaceuticals USA Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule, Extended Release"
+  },
+  {
+    "drug": "Phenoxybenzamine Hydrochloride Capsule",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Advanz Pharma (US) Corp."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Cholestyramine Powder",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Powder"
+  },
+  {
+    "drug": "Doxercalciferol Injection",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Sanofi-Aventis U.S. LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Gemcitabine Hydrochloride Injection",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Fluvastatin Sodium Tablet, Extended Release",
+    "risk_score": 25.0,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Sandoz Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Naltrexone Hydrochloride Tablet",
+    "risk_score": 24.9,
+    "risk_level": "LOW",
+    "recurrence_count": 15,
+    "recurrence_score": 16.7,
+    "avg_duration_days": 713,
+    "duration_score": 13.7,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Sun Pharmaceutical Industries, Inc.",
+      "Elite Laboratories, Inc.",
+      "SpecGx LLC",
+      "Chartwell Molecular Holdings LLC",
+      "Accord Healthcare Inc."
+    ],
+    "num_companies": 5,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Oseltamivir Phosphate Capsule",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral"
+    ],
+    "companies": [
+      "Genentech, Inc"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Pindolol Tablet",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Sun Pharmaceutical Industries, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Ceftazidime Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Cefepime Hydrochloride Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Fresenius Kabi USA, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Desonide Lotion",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Dermatology",
+    "all_categories": [
+      "Dermatology"
+    ],
+    "companies": [
+      "Actavis Pharma, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Lotion"
+  },
+  {
+    "drug": "Azithromycin Tablet",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Morphine Sulfate Tablet",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Spironolactone Tablet",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Palivizumab Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral"
+    ],
+    "companies": [
+      "Swedish Orphan Biovitrum AB"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Clindamycin Palmitate Hydrochloride Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Amneal Pharmaceuticals"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Anagrelide Hydrochloride Capsule",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Hematology",
+    "all_categories": [
+      "Hematology"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Bleomycin Sulfate Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Hematology",
+    "all_categories": [
+      "Pediatric",
+      "Hematology",
+      "Oncology"
+    ],
+    "companies": [
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Sumatriptan Nasal Spray",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Prasco Laboratories"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Nasal Spray"
+  },
+  {
+    "drug": "Frovatriptan Succinate Tablet",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Endo Pharmaceuticals, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Paricalcitol Capsule",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "AbbVie Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Pemetrexed Ditromethamine Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Insulin Aspart Protamine and Insulin Aspart Mix 70/30 Injectable Suspension",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Novo Nordisk, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injectable Suspension"
+  },
+  {
+    "drug": "Mirikizumab-mrkz Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Gastroenterology",
+    "all_categories": [
+      "Other",
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Eli Lilly and Co."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Atazanavir Sulfate Capsule",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral"
+    ],
+    "companies": [
+      "Bristol Myers Squibb Co."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Calcitriol Capsule",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Pramlintide Acetate Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "AstraZeneca AB"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Hydrochlorothiazide Capsule",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Icosapent Ethyl Capsule",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Apotex Corp."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Idelalisib Tablet",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Gilead Sciences, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Haloperidol Decanoate Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Fresenius Kabi USA, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Hydrochlorothiazide; Quinapril Hydrochloride Tablet",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Ivabradine Hydrochloride Tablet",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Amgen Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Pilocarpine Hydrochloride Tablet",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Other",
+    "all_categories": [
+      "Other"
+    ],
+    "companies": [
+      "Actavis Pharma, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Decitabine Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Ingenus Pharmaceuticals LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Epinephrine Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Endocrinology/Metabolism",
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Amantadine Hydrochloride Capsule",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral",
+      "Neurology"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Azithromycin Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Pfizer Inc.",
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Nilutamide Tablet",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Advanz Pharma (US) Corp."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Insulin Lispro-aabc Injection",
+    "risk_score": 24.7,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Eli Lilly and Co."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Ursodiol Capsule",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Other",
+    "all_categories": [
+      "Other"
+    ],
+    "companies": [
+      "Strides Pharma Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Voriconazole Tablet",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Fosaprepitant Dimeglumine Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Gastroenterology",
+    "all_categories": [
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Fresenius Kabi USA, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Diltiazem Hydrochloride Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Hydrocortisone Sodium Succinate Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 8,
+    "recurrence_score": 8.9,
+    "avg_duration_days": 1068,
+    "duration_score": 20.5,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Pulmonary/Allergy",
+    "all_categories": [
+      "Neurology",
+      "Endocrinology/Metabolism",
+      "Hematology",
+      "Oncology",
+      "Gastroenterology",
+      "Ophthalmology",
+      "Pediatric",
+      "Dermatology",
+      "Renal",
+      "Rheumatology",
+      "Pulmonary/Allergy"
+    ],
+    "companies": [
+      "Hospira, Inc., a Pfizer Company",
+      "Cipla Limited"
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Adefovir Dipivoxil Tablet",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral"
+    ],
+    "companies": [
+      "Apotex Corp."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Ethinyl Estradiol; Etonogestrel Ring",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Reproductive",
+    "all_categories": [
+      "Reproductive"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Ring"
+  },
+  {
+    "drug": "Deferiprone Tablet",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Hematology",
+    "all_categories": [
+      "Hematology"
+    ],
+    "companies": [
+      "Chiesi USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Imipenem and Cilastatin Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Merck Sharp & Dohme Corp."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Atazanavir Sulfate Oral Powder",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral"
+    ],
+    "companies": [
+      "Bristol Myers Squibb Co."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Oral Powder"
+  },
+  {
+    "drug": "Lidocaine Patch",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Actavis Pharma, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Patch"
+  },
+  {
+    "drug": "Benztropine Mesylate Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Fresenius Kabi USA, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Arsenic Trioxide Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Ingenus Pharmaceuticals LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Ivabradine Solution",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Amgen Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Solution"
+  },
+  {
+    "drug": "Tafamidis Meglumine Capsule",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Busulfan Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Hematology",
+    "all_categories": [
+      "Hematology"
+    ],
+    "companies": [
+      "Mylan Institutional, a Viatris Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Testosterone Gel; Gel, Metered",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Urology",
+    "all_categories": [
+      "Urology"
+    ],
+    "companies": [
+      "Actavis Pharma, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Gel; Gel, Metered"
+  },
+  {
+    "drug": "Tazemetostat Hydrobromide Tablet",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Oncology",
+    "all_categories": [
+      "Oncology"
+    ],
+    "companies": [
+      "Epizyme, Inc. (An Ipsen Company)"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Gemfibrozil Tablet",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Ketamine Hydrochloride Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anesthesia",
+    "all_categories": [
+      "Anesthesia"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Glipizide Tablet, Extended Release",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Plerixafor Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Hematology",
+    "all_categories": [
+      "Hematology"
+    ],
+    "companies": [
+      "Fresenius Kabi USA, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Verapamil Hydrochloride Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Calcium Chloride Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Endocrinology/Metabolism",
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Oxycodone Hydrochloride Oral Solution",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Oral Solution"
+  },
+  {
+    "drug": "Triazolam Tablet",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Voriconazole Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Progesterone Vaginal Gel",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Urology",
+    "all_categories": [
+      "Urology"
+    ],
+    "companies": [
+      "AbbVie Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Vaginal Gel"
+  },
+  {
+    "drug": "Riboflavin 5-phosphate  Ophthalmic Solution",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Ophthalmology",
+    "all_categories": [
+      "Ophthalmology"
+    ],
+    "companies": [
+      "Glaukos Corporation"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Ophthalmic Solution"
+  },
+  {
+    "drug": "Insulin Lispro Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Eli Lilly and Co."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Cobicistat Tablet",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral"
+    ],
+    "companies": [
+      "Gilead Sciences, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Dapsone Gel",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Dermatology",
+    "all_categories": [
+      "Dermatology"
+    ],
+    "companies": [
+      "Amneal Pharmaceuticals"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Gel"
+  },
+  {
+    "drug": "Palonosetron Hydrochloride Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Gastroenterology",
+    "all_categories": [
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Aprepitant Oral Powder for Suspension",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Gastroenterology",
+    "all_categories": [
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Merck Sharp & Dohme LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": ""
+  },
+  {
+    "drug": "Ethionamide Tablet",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Nitrofurantoin Oral Suspension",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Other",
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Amneal Pharmaceuticals"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Oral Suspension"
+  },
+  {
+    "drug": "Pentamidine Isethionate Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "XGen Pharmaceuticals DJB, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Neostigmine Methylsulfate Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Fresenius Kabi USA, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Scopolamine Transdermal System",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Gastroenterology",
+    "all_categories": [
+      "Other",
+      "Gastroenterology",
+      "Neurology"
+    ],
+    "companies": [
+      "Padagis US LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Transdermal System"
+  },
+  {
+    "drug": "Cetrorelix Acetate Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Reproductive",
+    "all_categories": [
+      "Reproductive"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Caspofungin Acetate Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Fresenius Kabi USA, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Podofilox Topical Gel",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Dermatology",
+    "all_categories": [
+      "Other",
+      "Dermatology"
+    ],
+    "companies": [
+      "AbbVie Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Topical Gel"
+  },
+  {
+    "drug": "Piperacillin and Tazobactam Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Fresenius Kabi USA, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Elbasvir; Grazoprevir Tablet",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral"
+    ],
+    "companies": [
+      "Merck Sharp & Dohme LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Vigabatrin Oral Solution",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Pyros Pharmaceuticals, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Oral Solution"
+  },
+  {
+    "drug": "Hydroxychloroquine Sulfate Tablet",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Other",
+      "Anti-Infective",
+      "Rheumatology"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Insulin Glargine Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Eli Lilly and Co."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Adalimumab-afzb Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Rheumatology",
+    "all_categories": [
+      "Rheumatology"
+    ],
+    "companies": [
+      "Pfizer Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Minocycline Hydrochloride Capsule",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Adalimumab-ryvk Kit",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Rheumatology",
+    "all_categories": [
+      "Rheumatology"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": ""
+  },
+  {
+    "drug": "Nitroglycerin Ointment",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "AbbVie Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Ointment"
+  },
+  {
+    "drug": "Nortriptyline Hydrochloride Capsule",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule"
+  },
+  {
+    "drug": "Amphotericin B Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Leadiant Biosciences, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Oxaprozin Tablet",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Hospira, Inc., a Pfizer Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Montelukast Sodium Tablet, Chewable",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Pulmonary/Allergy",
+    "all_categories": [
+      "Pulmonary/Allergy"
+    ],
+    "companies": [
+      "Organon"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet, Chewable"
+  },
+  {
+    "drug": "Clindamycin Phosphate; Benzoyl Peroxide Gel",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Dermatology",
+    "all_categories": [
+      "Dermatology"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Gel"
+  },
+  {
+    "drug": "Posaconazole Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Merck Sharp & Dohme Corp."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Sodium Oxybate Solution",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Amneal Pharmaceuticals"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Solution"
+  },
+  {
+    "drug": "Moxifloxacin Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Fresenius Kabi USA, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Doxylamine Succinate and Pyridoxine  Hydrochloride Tablet, Delayed Release",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Other",
+    "all_categories": [
+      "Other"
+    ],
+    "companies": [
+      "Mylan Pharmaceuticals Inc., a Viatris Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Azelastine Hydrochloride; Fluticasone Propionate Nasal Spray",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Pulmonary/Allergy",
+    "all_categories": [
+      "Pulmonary/Allergy"
+    ],
+    "companies": [
+      "Mylan Pharmaceuticals Inc., a Viatris Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Nasal Spray"
+  },
+  {
+    "drug": "Somatropin Injection",
+    "risk_score": 24.3,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 80.0,
+    "cause_severity_score": 80.0,
+    "primary_reason": "Discontinuation",
+    "all_reasons": [
+      "Discontinuation"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism"
+    ],
+    "companies": [
+      "Novo Nordisk, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Methamphetamine Hydrochloride Tablet",
+    "risk_score": 22.2,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 1047,
+    "duration_score": 20.1,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Hikma Pharmaceuticals USA, Inc.",
+      "Dr. Reddy's Laboratories, Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Nitroglycerin Injection",
+    "risk_score": 21.7,
+    "risk_level": "LOW",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 801,
+    "duration_score": 15.4,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Baxter Healthcare",
+      "American Regent, Inc."
+    ],
+    "num_companies": 2,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Baclofen Tablet",
+    "risk_score": 20.5,
+    "risk_level": "LOW",
+    "recurrence_count": 12,
+    "recurrence_score": 13.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Pravastatin Sodium Tablet",
+    "risk_score": 19.2,
+    "risk_level": "LOW",
+    "recurrence_count": 8,
+    "recurrence_score": 8.9,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Midodrine Hydrochloride Tablet",
+    "risk_score": 18.8,
+    "risk_level": "LOW",
+    "recurrence_count": 7,
+    "recurrence_score": 7.8,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Potassium Chloride Capsule, Extended Release",
+    "risk_score": 18.5,
+    "risk_level": "LOW",
+    "recurrence_count": 6,
+    "recurrence_score": 6.7,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Endocrinology/Metabolism",
+    "all_categories": [
+      "Endocrinology/Metabolism",
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule, Extended Release"
+  },
+  {
+    "drug": "Adalimumab-adaz Injection",
+    "risk_score": 18.2,
+    "risk_level": "LOW",
+    "recurrence_count": 5,
+    "recurrence_score": 5.6,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Rheumatology",
+    "all_categories": [
+      "Rheumatology"
+    ],
+    "companies": [
+      "Sandoz Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Bumetanide Tablet",
+    "risk_score": 18.2,
+    "risk_level": "LOW",
+    "recurrence_count": 5,
+    "recurrence_score": 5.6,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Topiramate Capsule, Extended Release",
+    "risk_score": 18.2,
+    "risk_level": "LOW",
+    "recurrence_count": 5,
+    "recurrence_score": 5.6,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Capsule, Extended Release"
+  },
+  {
+    "drug": "Oxybutynin Chloride Tablet",
+    "risk_score": 17.8,
+    "risk_level": "LOW",
+    "recurrence_count": 4,
+    "recurrence_score": 4.4,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Renal",
+    "all_categories": [
+      "Renal"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Nystatin Topical Powder",
+    "risk_score": 17.5,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Dermatology",
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Topical Powder"
+  },
+  {
+    "drug": "Fluticasone Propionate; Salmeterol Xinafoate Powder",
+    "risk_score": 17.5,
+    "risk_level": "LOW",
+    "recurrence_count": 3,
+    "recurrence_score": 3.3,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Pulmonary/Allergy",
+    "all_categories": [
+      "Pulmonary/Allergy"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Powder"
+  },
+  {
+    "drug": "Isoniazid Tablet",
+    "risk_score": 17.2,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anti-Infective",
+    "all_categories": [
+      "Anti-Infective"
+    ],
+    "companies": [
+      "Genus Lifesciences"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Bosentan Tablet",
+    "risk_score": 17.2,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Actelion Pharmaceuticals"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Ramelteon Tablet",
+    "risk_score": 17.2,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Takeda Pharmaceuticals USA Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Obeticholic Acid Tablet",
+    "risk_score": 17.2,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Gastroenterology",
+    "all_categories": [
+      "Gastroenterology"
+    ],
+    "companies": [
+      "Intercept Pharmaceuticals"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Memantine Hydrochloride Tablet",
+    "risk_score": 17.2,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Neurology",
+    "all_categories": [
+      "Neurology"
+    ],
+    "companies": [
+      "Upsher-Smith Laboratories, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Desonide Cream",
+    "risk_score": 17.2,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Dermatology",
+    "all_categories": [
+      "Dermatology"
+    ],
+    "companies": [
+      "Actavis Pharma, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Cream"
+  },
+  {
+    "drug": "Drospirenone; Ethinyl Estradiol Tablet",
+    "risk_score": 17.2,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Reproductive",
+    "all_categories": [
+      "Reproductive"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Phentermine Hydrochloride Tablet",
+    "risk_score": 17.2,
+    "risk_level": "LOW",
+    "recurrence_count": 2,
+    "recurrence_score": 2.2,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Other",
+    "all_categories": [
+      "Other"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Ethinyl Estradiol; Ethinyl Diacetate Tablet",
+    "risk_score": 16.8,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Reproductive",
+    "all_categories": [
+      "Reproductive"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Tranylcypromine Sulfate Tablet",
+    "risk_score": 16.8,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Psychiatry",
+    "all_categories": [
+      "Psychiatry"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Atazanavir Sulfate; Cobicistat Tablet",
+    "risk_score": 16.8,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral"
+    ],
+    "companies": [
+      "Bristol Myers Squibb Co."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Tablet"
+  },
+  {
+    "drug": "Tbo-filgrastim Injection",
+    "risk_score": 16.8,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Hematology",
+    "all_categories": [
+      "Hematology"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Homatropine Methylbromide and Hydrocodone Bitartrate Syrup",
+    "risk_score": 16.8,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Analgesia/Addiction",
+    "all_categories": [
+      "Analgesia/Addiction"
+    ],
+    "companies": [
+      "Teva Pharmaceuticals USA, Inc."
+    ],
+    "num_companies": 1,
+    "dosage_form": "Syrup"
+  },
+  {
+    "drug": "Vecuronium Bromide Injection",
+    "risk_score": 16.8,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Anesthesia",
+    "all_categories": [
+      "Anesthesia"
+    ],
+    "companies": [
+      "Sun Pharmaceutical Industries Limited"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Injection"
+  },
+  {
+    "drug": "Chlorothiazide Oral Suspension",
+    "risk_score": 16.8,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Cardiovascular",
+    "all_categories": [
+      "Cardiovascular"
+    ],
+    "companies": [
+      "Salix Pharmaceuticals, a division of Bausch Health US, LLC"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Oral Suspension"
+  },
+  {
+    "drug": "Maraviroc Solution",
+    "risk_score": 16.8,
+    "risk_level": "LOW",
+    "recurrence_count": 1,
+    "recurrence_score": 1.1,
+    "avg_duration_days": 0,
+    "duration_score": 0.0,
+    "max_cause_severity": 50.0,
+    "cause_severity_score": 50.0,
+    "primary_reason": "Other / Unspecified",
+    "all_reasons": [
+      "Other / Unspecified"
+    ],
+    "status_score": 20.0,
+    "current_status": "Resolved/Discontinued",
+    "primary_category": "Antiviral",
+    "all_categories": [
+      "Antiviral"
+    ],
+    "companies": [
+      "ViiV Healthcare Company"
+    ],
+    "num_companies": 1,
+    "dosage_form": "Solution"
+  }
+]

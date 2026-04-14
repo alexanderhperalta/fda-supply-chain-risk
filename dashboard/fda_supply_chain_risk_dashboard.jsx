@@ -489,12 +489,12 @@ const Methodology = () => (
 // ─── MAIN APP ───────────────────────────────────────────
 
 const TABS = [
-  { id: "leaderboard", label: "Risk Leaderboard", icon: "⚡" },
-  { id: "reasons", label: "Shortage Causes", icon: "◉" },
-  { id: "categories", label: "Category Analysis", icon: "△" },
-  { id: "timeseries", label: "Time Series", icon: "◇" },
-  { id: "suppliers", label: "Supplier Risk", icon: "□" },
-  { id: "methodology", label: "Methodology", icon: "◈" },
+  { id: "leaderboard", label: "Risk Leaderboard" },
+  { id: "reasons", label: "Shortage Causes"},
+  { id: "categories", label: "Category Analysis"},
+  { id: "timeseries", label: "Time Series"},
+  { id: "suppliers", label: "Supplier Risk"},
+  { id: "methodology", label: "Methodology"},
 ];
 
 export default function App() {
@@ -547,7 +547,7 @@ export default function App() {
             borderBottom: activeTab === t.id ? `2px solid ${COLORS.accent}` : "2px solid transparent",
             transition: "all 0.15s",
           }}>
-            <span style={{ marginRight: 6 }}>{t.icon}</span>{t.label}
+            <span style={{ marginRight: 6 }}></span>{t.label}
           </button>
         ))}
       </div>
