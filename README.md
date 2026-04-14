@@ -53,16 +53,16 @@ Each component maps directly to a capability Exiger delivers in production:
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│                    FDA openFDA API                    │
-│           api.fda.gov/drug/shortages.json             │
+│                    FDA openFDA API                  │
+│           api.fda.gov/drug/shortages.json           │
 └──────────────────────┬──────────────────────────────┘
                        │
                        ▼
 ┌──────────────────────────────────────────────────────┐
-│                  ETL Pipeline                         │
+│                  ETL Pipeline                        │
 │  • Ingest 1,692 shortage records                     │
-│  • Standardize 7 canonical shortage reason categories │
-│  • Compute duration, availability, enrichment fields  │
+│  • Standardize 7 canonical shortage reason categories│
+│  • Compute duration, availability, enrichment fields │
 └──────────────────────┬───────────────────────────────┘
                        │
               ┌────────┴────────┐
@@ -83,13 +83,13 @@ Each component maps directly to a capability Exiger delivers in production:
          └───────────┬───────────┘
                      ▼
 ┌──────────────────────────────────────────────────────┐
-│              Interactive Dashboard                     │
-│  • Risk Leaderboard (sortable, filterable)            │
-│  • Shortage Reason Breakdown (pie + bar)              │
-│  • Therapeutic Category Heatmap + Anomaly Flags       │
-│  • Time-Series Trend Analysis                         │
-│  • Supplier Concentration Risk                        │
-│  • Methodology & Exiger Alignment                     │
+│              Interactive Dashboard                   │
+│  • Risk Leaderboard (sortable, filterable)           │
+│  • Shortage Reason Breakdown (pie + bar)             │
+│  • Therapeutic Category Heatmap + Anomaly Flags      │
+│  • Time-Series Trend Analysis                        │
+│  • Supplier Concentration Risk                       │
+│  • Methodology & Exiger Alignment                    │
 └──────────────────────────────────────────────────────┘
 ```
 
