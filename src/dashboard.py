@@ -27,6 +27,7 @@ from collections import Counter, defaultdict
 
 st.set_page_config(
     page_title="FDA Drug Shortage Risk Dashboard",
+    page_icon="⬡",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -92,14 +93,14 @@ df_records = pd.DataFrame(cleaned_records)
 
 # ─── SIDEBAR ─────────────────────────────────────────────
 
-st.sidebar.markdown("## ⚡ Risk Dashboard")
+st.sidebar.markdown("## Risk Dashboard")
 st.sidebar.markdown("**FDA Drug Shortage**  \nSupply Chain Risk Analysis")
 st.sidebar.markdown("---")
 
 view = st.sidebar.radio(
     "Dashboard View",
-    ["📊 Risk Leaderboard", "◉ Shortage Causes", "△ Category Analysis",
-     "◇ Time Series", "□ Supplier Risk", "◈ Methodology"],
+    ["Risk Leaderboard", "Shortage Causes", "Category Analysis",
+     "Time Series", "Supplier Risk", "Methodology"],
     index=0,
 )
 
@@ -113,7 +114,7 @@ st.sidebar.markdown("*Alexander Peralta*  \nahperalt@gmail.com")
 
 # ─── HEADER METRICS ──────────────────────────────────────
 
-st.markdown("## ⚡ FDA Drug Shortage — Supply Chain Risk Dashboard")
+st.markdown("## FDA Drug Shortage — Supply Chain Risk Dashboard")
 st.markdown("")
 
 col1, col2, col3, col4, col5, col6 = st.columns(6)
@@ -135,7 +136,7 @@ st.markdown("---")
 
 # ─── VIEW: RISK LEADERBOARD ─────────────────────────────
 
-if view == "📊 Risk Leaderboard":
+if view == "Risk Leaderboard":
     st.markdown("### Risk Leaderboard")
     st.markdown("Composite risk = 30% Recurrence + 25% Duration + 25% Cause Severity + 20% Status")
 
@@ -234,7 +235,7 @@ if view == "📊 Risk Leaderboard":
 
 # ─── VIEW: SHORTAGE CAUSES ──────────────────────────────
 
-elif view == "◉ Shortage Causes":
+elif view == "Shortage Causes":
     st.markdown("### Shortage Reason Breakdown")
     st.markdown("Standardized shortage causes across all records")
 
@@ -302,7 +303,7 @@ elif view == "◉ Shortage Causes":
 
 # ─── VIEW: CATEGORY ANALYSIS ────────────────────────────
 
-elif view == "△ Category Analysis":
+elif view == "Category Analysis":
     st.markdown("### Therapeutic Category Analysis")
     st.markdown("Z-score anomaly detection — categories with |z| > 1.5 flagged as statistically anomalous")
 
@@ -386,7 +387,7 @@ elif view == "△ Category Analysis":
 
 # ─── VIEW: TIME SERIES ──────────────────────────────────
 
-elif view == "◇ Time Series":
+elif view == "Time Series":
     st.markdown("### Time-Series Analysis")
     st.markdown("Shortage volume trends over time")
 
@@ -450,7 +451,7 @@ elif view == "◇ Time Series":
 
 # ─── VIEW: SUPPLIER RISK ────────────────────────────────
 
-elif view == "□ Supplier Risk":
+elif view == "Supplier Risk":
     st.markdown("### Supplier Concentration Risk")
     st.markdown("Single-source dependency creates fragility — fewer suppliers = higher disruption risk")
 
@@ -497,7 +498,7 @@ elif view == "□ Supplier Risk":
 
 # ─── VIEW: METHODOLOGY ──────────────────────────────────
 
-elif view == "◈ Methodology":
+elif view == "Methodology":
     st.markdown("### Risk Scoring Methodology")
     st.markdown("Transparent, reproducible composite scoring aligned with Exiger's SCRM framework")
 
